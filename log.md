@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 3, 2017 
+### Day 1: January 3, 2017 
 
 **Today's Progress**: Forked Rasa_nlu project. Exported my sample data from LUIS and trained and tested using rasa_nlu's sklearn+spacy backend.
 
