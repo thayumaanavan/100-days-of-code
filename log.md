@@ -20,3 +20,9 @@
 
 **Link to work:** [Python Programming](http://hr.gs/de9)
 
+### Day 4: January 6, 2017 
+
+**Today's Progress**:  Basic python tutorial in Hackerearth. (strings remaining & sets started)
+
+**Link to work:** [Python Programming](http://hr.gs/de9)
+
