@@ -26,3 +26,15 @@
 
 **Link to work:** [Python Programming](http://hr.gs/de9)
 
+### Day 5: January 8, 2017 
+
+**Today's Progress**:  Basic python tutorial in Hackerearth. (sets completed)
+
+**Link to work:** [Python Programming](http://hr.gs/de9)
+
+### Day 6: January 9, 2017 
+
+**Today's Progress**:  Basic python tutorial in Hackerearth. (Math completed)
+
+**Link to work:** [Python Programming](http://hr.gs/de9)
+
