@@ -38,3 +38,7 @@
 
 **Link to work:** [Python Programming](http://hr.gs/de9)
 
+
+Had to stop due to my health condition & work. :( 
+
+
