@@ -40,5 +40,10 @@
 
 
 Had to stop due to my health condition & work. :( 
+Restarting again as I have been selected for Android Developer Nanodegree and learning ML/DL.
 
+### Day 1: May 30, 2018 
 
+**Today's Progress**: Numpy tutorial in Hackerrank
+
+**Link to work:** [Numpy tutorial](https://www.hackerrank.com/domains/python/numpy)
