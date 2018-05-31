@@ -47,3 +47,10 @@ Restarting again as I have been selected for Android Developer Nanodegree and le
 **Today's Progress**: Numpy tutorial in Hackerrank
 
 **Link to work:** [Numpy tutorial](https://www.hackerrank.com/domains/python/numpy)
+
+### Day 2: May 31, 2018 
+
+**Today's Progress**: Deep learning book linear algebra
+
+**Link to work:** [Deep learning Book-Video](https://www.youtube.com/playlist?list=PLsXu9MHQGs8cshZb3YUdtBhcu3LQp0Ax9)
+
