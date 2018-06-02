@@ -54,3 +54,15 @@ Restarting again as I have been selected for Android Developer Nanodegree and le
 
 **Link to work:** [Deep learning Book-Video](https://www.youtube.com/playlist?list=PLsXu9MHQGs8cshZb3YUdtBhcu3LQp0Ax9)
 
+### Day 3: June 1, 2018 
+
+**Today's Progress**: Deep learning book Probability
+
+**Link to work:** [Deep learning Book-Video](https://www.youtube.com/playlist?list=PLsXu9MHQGs8cshZb3YUdtBhcu3LQp0Ax9)
+
+### Day 4: June 2, 2018 
+
+**Today's Progress**: Android developer nanodegree - Project sandwich submitted
+
+**Link to work:** [Project Sandwich](https://github.com/thayumaanavan/android-nd-sandwich-club)
+
