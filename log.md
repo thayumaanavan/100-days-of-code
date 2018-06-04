@@ -66,3 +66,16 @@ Restarting again as I have been selected for Android Developer Nanodegree and le
 
 **Link to work:** [Project Sandwich](https://github.com/thayumaanavan/android-nd-sandwich-club)
 
+### Day 5: June 3, 2018 
+
+**Today's Progress**: Written a simple neural network with back propagation without any lib. Great learning experience
+
+**Link to work:** [Neural Network](https://t.co/1MfQeMbu43)
+
+### Day 6: June 4, 2018 
+
+**Today's Progress**: Started with CNN basics course (deep learning specialization)- week 1 completed (Assignments pending)
+
+**Link to work:** [CNN course](https://t.co/cVXcSS3b4A)
+
+
