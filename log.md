@@ -78,4 +78,8 @@ Restarting again as I have been selected for Android Developer Nanodegree and le
 
 **Link to work:** [CNN course](https://t.co/cVXcSS3b4A)
 
+### Day 7: June 4, 2018 
 
+**Today's Progress**:CNN coursera Andrew Ng course - Week 1 assignment-1 completed. Skipped  tensorflow assignment as I'm yet to learn tensorflow in Week 4.
+Started Week 2 videos.
+**Link to work:** [CNN course](https://t.co/cVXcSS3b4A)
