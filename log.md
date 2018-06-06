@@ -78,8 +78,20 @@ Restarting again as I have been selected for Android Developer Nanodegree and le
 
 **Link to work:** [CNN course](https://t.co/cVXcSS3b4A)
 
-### Day 7: June 4, 2018 
+### Day 7: June 5, 2018 
 
 **Today's Progress**:CNN coursera Andrew Ng course - Week 1 assignment-1 completed. Skipped  tensorflow assignment as I'm yet to learn tensorflow in Week 4.
 Started Week 2 videos.
+
 **Link to work:** [CNN course](https://t.co/cVXcSS3b4A)
+
+### Day 8: June 6, 2018 
+
+**Today's Progress**:
+1. Deep learning Specialization - CNN Course Week 2 completed. Skipped assignments as it uses Keras.
+2. Watched @sirajraval CNN videos. 
+3. Started with @karpathy  lecture notes on CNN from cs231 Module 2
+
+**Link to work:** [CNN course](https://t.co/cVXcSS3b4A)
+Siraj's Video : CNN [here](https://www.youtube.com/watch?v=FTr3n7uBIuE&t=1782s) and [here](https://www.youtube.com/watch?v=cAICT4Al5Ow&t=4s)
+Karpathy CNN course [here](http://cs231n.github.io/)
