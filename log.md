@@ -95,3 +95,17 @@ Started Week 2 videos.
 **Link to work:** [CNN course](https://t.co/cVXcSS3b4A)
 Siraj's Video : CNN [here](https://www.youtube.com/watch?v=FTr3n7uBIuE&t=1782s) and [here](https://www.youtube.com/watch?v=cAICT4Al5Ow&t=4s)
 Karpathy CNN course [here](http://cs231n.github.io/)
+
+### Day 9: June 7, 2018 
+
+**Today's Progress**: Completed @karpathy 1st lecture note on CNN from cs231 Module 2
+
+**Link to work:** Karpathy CNN course [here](http://cs231n.github.io/)
+
+### Day 10: June 8, 2018 
+
+**Today's Progress**: Deep learning Specialization - CNN Course Week 3 & 4 completed. Skipped assignments as it uses Keras & TF.
+
+**Link to work:** [CNN course](https://t.co/cVXcSS3b4A)
+
+
