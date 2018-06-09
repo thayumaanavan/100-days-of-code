@@ -108,4 +108,13 @@ Karpathy CNN course [here](http://cs231n.github.io/)
 
 **Link to work:** [CNN course](https://t.co/cVXcSS3b4A)
 
+### Day 11: June 9, 2018 
+
+**Today's Progress**: \
+1. Watched Andrew @karpathy 's session on CNN (https://www.youtube.com/watch?v=u6aEYuemt0M)
+2. Deep learning specialization - Structuring Machine Learning Projects - Week 1 completed
+3. Written simple CNN without any lib
+
+**Link to work:** [Simple CNN](https://github.com/thayumaanavan/Convolutional_neural_network)
+
 
