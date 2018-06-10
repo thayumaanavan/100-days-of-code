@@ -117,4 +117,12 @@ Karpathy CNN course [here](http://cs231n.github.io/)
 
 **Link to work:** [Simple CNN](https://github.com/thayumaanavan/Convolutional_neural_network)
 
+### Day 12: June 10, 2018 
+
+**Today's Progress**: Deep learning specialization - CNN Course - Week 1 & 2 assignments completed
+ - Convolution Model -Application (Tensorflow)
+ - Happy House (Keras)
+ - Residual Networks (ResNets)
+
+**Link to work:** [CNN](https://github.com/thayumaanavan/Convolutional_neural_network)
 
