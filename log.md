@@ -126,3 +126,13 @@ Karpathy CNN course [here](http://cs231n.github.io/)
 
 **Link to work:** [CNN](https://github.com/thayumaanavan/Convolutional_neural_network)
 
+### Day 13: June 11, 2018 
+
+**Today's Progress**: Deep learning specialization - CNN Course - Week 3 & 4 assignments completed
+ - Car Detection with YOLOv2
+ - Art generation with Neural Style Transfer
+ - Face recognition for Happy house
+
+**Link to work:** [CNN](https://github.com/thayumaanavan/Convolutional_neural_network)
+
+
