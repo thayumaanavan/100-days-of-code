@@ -135,4 +135,11 @@ Karpathy CNN course [here](http://cs231n.github.io/)
 
 **Link to work:** [CNN](https://github.com/thayumaanavan/Convolutional_neural_network)
 
+### Day 14: June 12, 2018 
 
+**Today's Progress**:  DL specialization - Sequence models course - Week 1 completed
+- Building a RNN without any lib
+- Dinosaur Island - Character level language Modeling
+-  Jazz improvisation (Music generator) using LSTM
+
+**Link to work:** [RNN](https://github.com/thayumaanavan/Recurrent_Neural_Networks)
