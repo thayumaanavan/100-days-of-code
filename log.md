@@ -143,3 +143,10 @@ Karpathy CNN course [here](http://cs231n.github.io/)
 -  Jazz improvisation (Music generator) using LSTM
 
 **Link to work:** [RNN](https://github.com/thayumaanavan/Recurrent_Neural_Networks)
+
+### Day 15: June 12, 2018 
+
+**Today's Progress**:DL specialization - Sequence Models - week 2 half done
+Practiced some easy coding questions in @LeetCode 
+
+**Link to work:** [Coursera](https://www.coursera.org/learn/nlp-sequence-models)
