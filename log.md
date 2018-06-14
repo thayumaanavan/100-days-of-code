@@ -146,7 +146,17 @@ Karpathy CNN course [here](http://cs231n.github.io/)
 
 ### Day 15: June 12, 2018 
 
-**Today's Progress**:DL specialization - Sequence Models - week 2 half done
+**Today's Progress**: DL specialization - Sequence Models - week 2 half done
 Practiced some easy coding questions in @LeetCode 
 
 **Link to work:** [Coursera](https://www.coursera.org/learn/nlp-sequence-models)
+
+### Day 16: June 12, 2018 
+
+**Today's Progress**: DL specialization - Sequence Models full course completed
+- Operations on word vectors - Debiasing
+- Emojify
+- Neural Machine Translation with Attention
+- Trigger word detection
+
+**Link to work:** [RNN](https://github.com/thayumaanavan/Recurrent_Neural_Networks)
