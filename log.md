@@ -144,14 +144,14 @@ Karpathy CNN course [here](http://cs231n.github.io/)
 
 **Link to work:** [RNN](https://github.com/thayumaanavan/Recurrent_Neural_Networks)
 
-### Day 15: June 12, 2018 
+### Day 15: June 13, 2018 
 
 **Today's Progress**: DL specialization - Sequence Models - week 2 half done
 Practiced some easy coding questions in @LeetCode 
 
 **Link to work:** [Coursera](https://www.coursera.org/learn/nlp-sequence-models)
 
-### Day 16: June 12, 2018 
+### Day 16: June 14, 2018 
 
 **Today's Progress**: DL specialization - Sequence Models full course completed
 - Operations on word vectors - Debiasing
@@ -160,3 +160,21 @@ Practiced some easy coding questions in @LeetCode
 - Trigger word detection
 
 **Link to work:** [RNN](https://github.com/thayumaanavan/Recurrent_Neural_Networks)
+
+### Day 17: June 15, 2018 
+
+**Today's Progress**: Worked on Popular Movies -Stage 1 project for Android Developer Nanodegree
+
+**Link to work:** [Popular Movies stage 1](https://github.com/thayumaanavan/Popular-Movies-Stage-1)
+
+### Day 18: June 16, 2018 
+
+**Today's Progress**: Worked on Popular Movies -Stage 1 project for Android Developer Nanodegree
+
+**Link to work:** [Popular Movies stage 1](https://github.com/thayumaanavan/Popular-Movies-Stage-1)
+
+### Day 19: June 17, 2018 
+
+**Today's Progress**: Worked on Popular Movies -Stage 1 project for Android Developer Nanodegree
+
+**Link to work:** [Popular Movies stage 1](https://github.com/thayumaanavan/Popular-Movies-Stage-1)
