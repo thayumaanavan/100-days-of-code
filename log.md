@@ -178,3 +178,16 @@ Practiced some easy coding questions in @LeetCode
 **Today's Progress**: Worked on Popular Movies -Stage 1 project for Android Developer Nanodegree
 
 **Link to work:** [Popular Movies stage 1](https://github.com/thayumaanavan/Popular-Movies-Stage-1)
+
+### Day 20: June 18, 2018 
+
+**Today's Progress**: Missed an edge case. Fixed and resubmitted popular movies stage 1 for Android Developer Nanodegree. Waiting for feedback.
+
+**Link to work:** [Popular Movies stage 1](https://github.com/thayumaanavan/Popular-Movies-Stage-1)
+
+### Day 21: June 19, 2018 
+
+**Today's Progress**: Completed #Week3  Recurrent Networks and started with @TensorFlow  tutorials. Started using Google @GoogleColab for learning it. Coded some basics on Low level APIs.
+
+**Link to work:** [TensorFlow](https://github.com/thayumaanavan/TensorFlow)
+
