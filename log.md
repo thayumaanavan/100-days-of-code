@@ -191,3 +191,15 @@ Practiced some easy coding questions in @LeetCode
 
 **Link to work:** [TensorFlow](https://github.com/thayumaanavan/TensorFlow)
 
+### Day 22: June 20, 2018 
+
+**Today's Progress**: Did some algo/ds questions from GeeksForGeeks
+
+**Link to work:** [GeeksforGeeks](https://practice.geeksforgeeks.org)
+
+### Day 23: June 21, 2018 
+
+**Today's Progress**: Did some algo/ds questions from GeeksForGeeks/Leetcode
+
+**Link to work:** [GeeksforGeeks](https://practice.geeksforgeeks.org)
+
