@@ -234,5 +234,6 @@ Watched @TensorFlow cs20 course videos & went through some @GoogleIO2018 videos
 
 **Today's Progress**: Done Tree problems on @LeetCode 
 
-**Link to work:**
+**Link to work:** https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/
 
