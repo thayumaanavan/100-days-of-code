@@ -203,3 +203,36 @@ Practiced some easy coding questions in @LeetCode
 
 **Link to work:** [GeeksforGeeks](https://practice.geeksforgeeks.org)
 
+### Day 24: June 22, 2018 
+
+**Today's Progress**:Did problems on binary tree and BST from @geeksforgeeks 
+Watched @TensorFlow cs20 course videos & went through some @GoogleIO2018 videos  
+
+**Link to work:** https://t.co/y7bI9JX4we
+
+### Day 25: June 23, 2018 
+
+**Today's Progress**:Did problems on binary tree and BST from @geeksforgeeks 
+Watched @TensorFlow cs20 course videos & went through some @GoogleIO2018 videos  
+
+**Link to work:** https://t.co/y7bI9JX4we
+
+### Day 26: June 24, 2018 
+
+**Today's Progress**:Did problems on binary tree and BST from @geeksforgeeks 
+Watched @TensorFlow cs20 course videos & went through some @GoogleIO2018 videos  
+
+**Link to work:** https://t.co/y7bI9JX4we
+
+### Day 27: June 25, 2018 
+
+**Today's Progress**:Watched @googleio videos , cs20 course videos and @sirajraval  playlist for @TensorFlow  high level API, Keras, serve, hub.. Need to start with GAN
+
+**Link to work:** https://t.co/y7bI9JX4we
+
+### Day 28: June 26, 2018 
+
+**Today's Progress**: Done Tree problems on @LeetCode 
+
+**Link to work:**
+
