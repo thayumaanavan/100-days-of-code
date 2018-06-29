@@ -237,3 +237,25 @@ Watched @TensorFlow cs20 course videos & went through some @GoogleIO2018 videos
 **Link to work:** https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/
 https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/
 
+### Day 29: June 27, 2018 
+
+**Today's Progress**: completed trees and linked list problems in top interview questions easy collection on @LeetCode 
+Started with medium problem set. 
+
+**Link to work:** https://leetcode.com/explore/interview/card/top-interview-questions-medium
+
+### Day 30: June 28, 2018 
+
+**Today's Progress**: Completed Linked list and 1/2 tree questions in top interview questions Medium on @LeetCode 
+
+**Link to work:** https://leetcode.com/explore/interview/card/top-interview-questions-medium
+
+### Day 31: June 29, 2018 
+
+**Today's Progress**: Started refreshing Dynamic programming concepts.
+Started seeing GAN videos from @sirajraval  
+
+**Link to work:** https://www.byte-by-byte.com/dpbook/
+https://www.youtube.com/results?search_query=generative+adversarial+network
+
+
